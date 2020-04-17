@@ -13,11 +13,14 @@ namespace ClientCLI
 
             void onMessage(SleepyDiscord::Message message) override
             {
+                //Hello command
                 if(message.startsWith("!Hello"))
                 {
                     sendMessage(message.channelID ,"Hello " + message.author.username);
                 }
-                if(message.author.username != "ComLarsics Test App")
+
+                //checks if message not sent by self
+                if(message.author.username != "[Your bot name here]")
                 {
                     std::cout<<message.content<<std::endl;
                     ClientMessenger();
