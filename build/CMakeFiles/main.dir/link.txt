@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o  -o main  sleepy-discord/sleepy_discord/libsleepy-discord.a lib/libcpr.a /usr/lib/libcurl.so -lssl -lcrypto -pthread 

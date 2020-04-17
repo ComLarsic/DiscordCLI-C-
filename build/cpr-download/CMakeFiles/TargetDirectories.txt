@@ -1,3 +1,0 @@
-/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/rebuild_cache.dir
-/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/cpr-download.dir
-/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/edit_cache.dir
