@@ -31,7 +31,7 @@ namespace ClientCLI
             {
                 std::cout<<"Respose: ";
                 std::getline(std::cin, message); 
-                sendMessage(679041248086065167, message);
+                sendMessage([Your channel ID here], message);
             }
     };
 }
