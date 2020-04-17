@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../sleepy-discord/include/sleepy_discord/json.h
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+ctype.h
+-
+stdarg.h
+-
+string.h
+-
+string
+-
+vector
+-
+
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/sleepy-discord/sleepy_discord/json.c
+json.h
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/sleepy-discord/sleepy_discord/json.h
+

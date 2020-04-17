@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/cpr-download"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/cpr-download.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/CMakeFiles/cpr-download-complete.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-install.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-mkdir.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-download.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-patch.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-configure.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-build.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-test.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/cpr-download/cpr-download-prefix/src/cpr-download-stamp/cpr-download-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpr-download"
+		],
+		"name" : "cpr-download"
+	}
+}

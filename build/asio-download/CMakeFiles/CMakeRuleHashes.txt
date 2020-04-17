@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+98a9fa7b5e871c2fef351fad7987fe1d CMakeFiles/asio-download
+c6644f1bd816ca43e5fda583f2b30aec CMakeFiles/asio-download-complete
+e671dc700b202351588cd5d4e23840c8 asio-download-prefix/src/asio-download-stamp/asio-download-build
+03c0ae599850174adfa4cdcaeaed95d5 asio-download-prefix/src/asio-download-stamp/asio-download-configure
+4d43bf416ecb3c1fabde0146fff73e1d asio-download-prefix/src/asio-download-stamp/asio-download-download
+03ce8712b2470965a9bed581dd824c7d asio-download-prefix/src/asio-download-stamp/asio-download-install
+9d59343b8e723d71557f137fec947fa2 asio-download-prefix/src/asio-download-stamp/asio-download-mkdir
+46d0fb78dcb13385a9997d916fc5208b asio-download-prefix/src/asio-download-stamp/asio-download-patch
+f1c8074af821663dbbc53c2bcf5de380 asio-download-prefix/src/asio-download-stamp/asio-download-skip-update
+ff3afbe35560cc9fbd39fa146d4071e3 asio-download-prefix/src/asio-download-stamp/asio-download-test

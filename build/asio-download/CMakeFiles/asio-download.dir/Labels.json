@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/asio-download"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/asio-download.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/asio-download-complete.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-install.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-mkdir.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-download.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-patch.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-configure.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-build.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-test.rule"
+		},
+		{
+			"file" : "/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"asio-download"
+		],
+		"name" : "asio-download"
+	}
+}

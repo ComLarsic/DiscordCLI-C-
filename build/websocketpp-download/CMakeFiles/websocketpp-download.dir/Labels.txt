@@ -1,0 +1,14 @@
+# Target labels
+ websocketpp-download
+# Source files and their labels
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/CMakeFiles/websocketpp-download
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/CMakeFiles/websocketpp-download.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule

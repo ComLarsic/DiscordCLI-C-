@@ -1,0 +1,3 @@
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/rebuild_cache.dir
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/asio-download.dir
+/run/media/com/eef95668-7438-4f7a-bf0f-9f66f56e0459/Projects/C++/BotDiscord/source/DiscordCLI-Cpp/build/asio-download/CMakeFiles/edit_cache.dir
