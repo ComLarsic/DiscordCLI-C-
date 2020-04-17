@@ -9,7 +9,9 @@ First, you change the [Your Token here] in main.cpp
 
 Then you change the [Your bot name here] in headers/main.hpp
 
-then you build it like a normal Cmake app:
+Then change [Your channel ID here] in headers/main.hpp
+
+Then you build it like a normal Cmake app:
 
 ```
 mkdir build && cd build
